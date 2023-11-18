@@ -1,0 +1,6 @@
+[submodule "books"]
+	path = books
+	url = https://github.com/Tolluset/books.git
+[submodule "config"]
+	path = config
+	url = https://github.com/Tolluset/config.git
